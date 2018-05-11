@@ -1,0 +1,12 @@
+{
+  "name": "Kademlia",
+  "version": "1.0.0",
+  "description": "An implementation of the long Kademlia protocol specification.",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
